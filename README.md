@@ -1,4 +1,4 @@
-<h3> Hi 👋, I'm TRidho Daffasyah </h3>
+<h3> Hi 👋, I'm Ridho Daffasyah </h3>
 
 ***Explorer in Computer Science and Web Developer*** 🚀 
 
