@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3> Hi 👋, I'm TRidho Daffasyah </h3>
 
-<!--
-**ridhodaffasyah/ridhodaffasyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Explorer in Computer Science and Web Developer*** 🚀 
 
-Here are some ideas to get you started:
+<h2> :fire: About Me! </h2>
+Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development. Still new about that stuff but looking for opportunity to work with others!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> :sparkles: Language and Tools: </h2>
+Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, React, Flask
+
+<h2> :eyes: Stats: </h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=tokyonight)
+
+<h2> :two_men_holding_hands: Another Side of Me: </h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ridhodaffasyah/">
+  <img alt="Ridho's LinkedIn" width="128px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
