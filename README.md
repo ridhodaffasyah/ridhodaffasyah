@@ -12,6 +12,8 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, Re
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&langs_count=8)]
+
 <h2> :two_men_holding_hands: Another Side of Me: </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/ridhodaffasyah/">
