@@ -12,7 +12,7 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, Re
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ridhodaffasyah)
 
