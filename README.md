@@ -10,6 +10,8 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, Re
 
 <h2> :eyes: Stats: </h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyirawanf&layout=compact)
+
 <p align="center">
 <a href="https://github.com/ferdyirawanf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdyirawanf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
