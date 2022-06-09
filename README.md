@@ -10,9 +10,12 @@ Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, Re
 
 <h2> :eyes: Stats: </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=tokyonight)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&layout=compact&count-private=true&theme=tokyonight)]()
+<p align="center">
+<a href="https://github.com/ridhodaffasyah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&layout=compact&&langs_count=8count-private=true&theme=tokyonight"/>
+</a> 
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ridhodaffasyah)
 
