@@ -1,12 +1,21 @@
-<h3> Hi 👋, I'm Ridho Daffasyah </h3>
+![](assets/Bottom_up.svg)
 
-***Explorer in Computer Science and Web Developer*** 🚀 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/ridhodaffasyah/ridhodaffasyah"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/ridhodaffasyah/ridhodaffasyah/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/ridhodaffasyah/ridhodaffasyah/stargazers"><img src="https://img.shields.io/github/stars/ridhodaffasyah/ridhodaffasyah.svg?logo=github"></a>
+    <a href="https://github.com/ridhodaffasyah/ridhodaffasyah/network/members"><img src="https://img.shields.io/github/forks/ridhodaffasyah/ridhodaffasyah.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ridhodaffasyah.ridhodaffasyah" alt="visitors"/>   
+</p>
 
-<h2> :fire: About Me! </h2>
-Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development. Still new about that stuff but looking for opportunity to work with others!
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<h2> :sparkles: Language and Tools: </h2>
-Python, C, C++, C#, Java, MariaDB, MySQL, Git, Docker, HTML, CSS, Javascript, React, Flask
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ridho+Daffasyah;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Web+Development+enthusiast+;)](https://git.io/typing-svg)
 
 <h2> :eyes: Stats: </h2>
 
