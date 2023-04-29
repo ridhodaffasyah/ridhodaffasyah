@@ -12,10 +12,6 @@
 <h2> :fire: About Me! </h2>
 <i>Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development. Still new about that stuff but looking for opportunity to work with others!</i>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Ridho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ridhodaffasyah&hide_border=true&theme=redical)
-
 <h2> :eyes: Stats: </h2>
 
 | .                                                                                                                                       | .                                                                                                                         |
