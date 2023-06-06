@@ -16,7 +16,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=radical&include_all_commits=true) | ![Ridho's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&theme=radical&layout=compact) |
+| ![Ridho's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ridhodaffasyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![Ridho's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhodaffasyah&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhodaffasyah"></img>
 
